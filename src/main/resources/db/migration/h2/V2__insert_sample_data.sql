@@ -1,0 +1,16 @@
+insert into bookmarks (title, url, created_at)
+VALUES ('Demo 1', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 2', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 3', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 4', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 5', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 6', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 7', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 8', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 9', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 10', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 11', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 12', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 13', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 14', 'https://me.com', CURRENT_TIMESTAMP()),
+       ('Demo 15', 'https://me.com', CURRENT_TIMESTAMP());
